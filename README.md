@@ -1,0 +1,1 @@
+this was really hard to do i spent 1 week on the design my lecturer didint offer any help had to discobver through my classmates othererwise i ended up figuring it out and eventually publishing it hetre on githiub
