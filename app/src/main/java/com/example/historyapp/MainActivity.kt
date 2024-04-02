@@ -17,9 +17,10 @@ class MainActivity : AppCompatActivity() {
         19 to "Joan of Arc",
         39 to "Cleopatra",
         67 to "Leonardo Da Vinci",
-        15 to "Anne Frank",
-        18 to "Tutankhamun",
-        78 to "Mhat"
+        78 to "Mhat",
+         51 to "Napoleon",
+        55 to "Julias Ceaser",
+        65 to "Gangus Khan"
 
 
         )
